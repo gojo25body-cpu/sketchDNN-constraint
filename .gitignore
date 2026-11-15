@@ -1,0 +1,10 @@
+# Python 暫存檔
+__pycache__/
+*.pyc
+# 訓練資料（很大，需要時程式會自動下載）
+data/
+# 個人使用時產生的檔案
+runs_constraint/dims_*.json
+*.ai_dims.json
+out.json
+.vscode/
